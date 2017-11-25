@@ -1,0 +1,41 @@
+body,
+html {
+    height: 100%;
+    font-family: "Bree Serif", sans-serif;
+}
+.imagen-fondo {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../img/background_4.jpg");
+    min-height: 100%;
+}
+
+h1 {
+    font-size: 56px;
+    color: #F18F01;
+}
+
+h2 {
+
+}
+
+h3 {
+    font-size: 25px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+h4 {
+
+}
+
+p {
+
+}
+
+ul {
+  color: brown;
+  font-size: 18px;
+  font-family: serif;
+}
